@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xsova113
 - 👀 I’m interested in mobile app and web development.
-- 🌱 I’m currently learning web development with the focus on React and fullstack development.
+- 🌱 I specialize in React and fullstack development.
 
 <!---
 xsova113/xsova113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
